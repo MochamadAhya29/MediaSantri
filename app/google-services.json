@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643530397428",
+    "firebase_url": "https://media-santri-8ddc5.firebaseio.com",
+    "project_id": "media-santri-8ddc5",
+    "storage_bucket": "media-santri-8ddc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643530397428:android:be519fea27032bfc9e70a1",
+        "android_client_info": {
+          "package_name": "com.mochamadahya.mediasantri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643530397428-p3h4j3i9fd9b1821daadbpv9ojuf5t38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGZXGwb6_onPkrtBf9uHn46ToWJzO1Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643530397428-p3h4j3i9fd9b1821daadbpv9ojuf5t38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
